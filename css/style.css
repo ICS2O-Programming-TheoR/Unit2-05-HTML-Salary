@@ -1,0 +1,23 @@
+/* Created by: Theo Rafuse
+* Created on: Mar 2023
+* This css file defines the style of index.html
+* Unit2-02-HTML-AreaPerRectangle
+*/
+
+body {
+  background-color: hsl(94deg 95% 35%);
+}
+
+/* stlye for my header */
+h1 {
+  background-color: #08b07c;
+  color: #0014a8;
+  text-align: center;
+  padding: 40px;
+  font-size: 40px;
+}
+
+p {
+  color: #0014a8;
+  font-size: 125%;
+}
